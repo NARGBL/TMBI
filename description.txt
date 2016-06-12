@@ -1,0 +1,7 @@
+Too Many Bricks Inventory
+Version 3.0 Beta
+By Nexus 4833
+Adds more rows to the brick inventory
+Contact me at hoff121324@gmail.com for support, or visit the forum thread http://forum.blockland.us/index.php?topic=161834.0
+
+Also includes Client_BrickScrolling by Hata 483
